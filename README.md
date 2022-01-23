@@ -2,7 +2,7 @@
 Vmware workstation 16 pro
 download it useing the release tab
 
-also thease are the keys:
+also these are the keys:
 
 
 After install or upgrade just insert the key and enjoy.
@@ -11,6 +11,11 @@ After install or upgrade just insert the key and enjoy.
 *No spam just license key
 
 ZF3R0-FHED2-M80TY-8QYGC-NPKYF --->> This key is 100% worked for me up to VM 16.1.1 build-17801498
+
+
+
+
+
 YF390-0HF8P-M81RQ-2DXQE-M2UT6
 ZF71R-DMX85-08DQY-8YMNC-PPHV8
 
